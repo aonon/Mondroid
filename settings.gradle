@@ -1,1 +1,0 @@
-include ':demo-app', ':mongol-library', ':testing-app'
